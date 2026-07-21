@@ -12,4 +12,4 @@ int main(){
     }
     cout<<a<<" raised to the power "<<b<<" is = "<<power;
 }
-// take two numbers and wap to find the value of one number raised to the power of another 
+// take two positive non zero numbers and wap to find the value of one number raised to the power of another 
