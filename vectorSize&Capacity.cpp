@@ -16,6 +16,3 @@ int main(){
     cout<<v.size()<<endl;
     cout<<v.capacity()<<endl;
 }
-// size means current number of elements occupied in the vector 
-// capacity means there can be more spaces than size
-// when elements fill up current size then capacity is doubled in vector 
