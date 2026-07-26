@@ -17,3 +17,4 @@ int main(){
     change(arr, size);
     display(arr, size);
 }
+// here in function arr[] and a[] is the same array that is in main , and it sends call by reference automatically . in function arr[] is a pointer
